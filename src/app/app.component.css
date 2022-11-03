@@ -1,0 +1,26 @@
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.card {
+    background-color: bisque;
+    width: 50%;
+}
+h3 {
+   padding-top: 25px;
+   padding-left: 20px;
+}
+#space {
+    margin-left: 10px;
+}
+label {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: chocolate;
+    font-size: small;
+    
+}
+.role {
+    color: chocolate;
+    font-size: small;
+}
